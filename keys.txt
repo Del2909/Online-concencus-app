@@ -1,0 +1,7 @@
+secretaccesskey: IgSSUoBtXjM7IwvCNVJo7Zzx7YW6Melz9p6V7hz+
+accesskeyid: AKIAU2VZW6YPUZVY4GP4
+user:del
+
+
+
+//Lets now build a website segmentation program and software.
